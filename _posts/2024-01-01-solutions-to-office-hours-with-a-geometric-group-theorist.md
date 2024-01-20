@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Solutions to <em>Office Hours with a Geometric Group Theorist</em>"
+title: "Solutions to *Office Hours with a Geometric Group Theorist*"
 tags: group-theory
 author:
 - Tushar Muralidharan
