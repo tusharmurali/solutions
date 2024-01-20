@@ -7,7 +7,7 @@ author:
 modified_date: 2024-01-20
 ---
 
-This is a test of inline math: $\nabla_\boldsymbol{x} J(\boldsymbol{x})$.
+This is a test of inline math: $\nabla_{\boldsymbol{x}} J(\boldsymbol{x})$.
 
 ## Some great heading (h2)
 
