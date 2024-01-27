@@ -6,9 +6,6 @@ author:
 url: "https://tusharmurali.github.io"
 baseurl: "/solutions"
 
-disqus:
-  shortname: tushars-solutions
-
 show_excerpts: true
 google_analytics: G-DSLXDQE9Q6
 
