@@ -13,8 +13,6 @@ This is a compilation of my solutions to *Office Hours with a Geometric Group Th
 
 ### Office Hour 1: Groups
 
-#### Section 1.1: Groups
-
 ##### Exercise 1
 
 To be formalized:
