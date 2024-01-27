@@ -1,5 +1,5 @@
 ---
 layout: tag
-title: "Tag: group-theory"
+title: "Articles tagged with \"group-theory\""
 tag: group-theory
 ---

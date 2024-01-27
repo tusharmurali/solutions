@@ -1,5 +1,5 @@
 ---
 layout: tag
-title: "Tag: test-prep"
+title: "Articles tagged with \"test-prep\""
 tag: test-prep
 ---
