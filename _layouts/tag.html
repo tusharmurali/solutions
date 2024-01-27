@@ -2,19 +2,13 @@
 layout: default
 ---
 <div class="post">
-  <h1>Tag: {{ page.tag }}</h1>
-  <ul>
-    <!-- {% for post in site.tags[page.tag] %}
-    <li><a href="/solutions/{{ post.url }}">{{ post.title | markdownify | remove: '<p>' | remove: '</p>' | strip_newlines }}</a> ({{ post.date | date_to_string }})<br>
-      {{ post.description }}
-    </li>
-    {% endfor %} -->
-    {% for post in site.posts %}
-      {% if post.tags contains page.tag %}
-      <li><a href="/solutions/{{ post.url }}">{{ post.title | markdownify | remove: '<p>' | remove: '</p>' | strip_newlines }}</a> ({{ post.date | date_to_string }})<br>
+  <h1>Articles tagged with "{{ page.tag }}"</h1>
+  <ul style="padding-top: 16px;">
+    {% for post in site.tags[page.tag] %}
+      <li><a href="/solutions/{{ post.url }}">{{ post.title | markdownify | remove: '<p>' | remove: '</p>' | strip_newlines }}</a>, published {{ post.date }}</li>
+      <!-- <li><a href="/solutions/{{ post.url }}">{{ post.title | markdownify | remove: '<p>' | remove: '</p>' | strip_newlines }}</a> ({{ post.date | date_to_string }})<br>
         {{ post.description }}
-      </li>
-      {% endif %}
+      </li> -->
     {% endfor %}
   </ul>
 </div>
