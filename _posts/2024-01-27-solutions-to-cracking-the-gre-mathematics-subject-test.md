@@ -14,5 +14,4 @@ This is a compilation of my solutions to *Cracking the GRE Mathematics Subject T
 
 ### Example 1.1
 
-1. Test
-2. Test
+1. 
