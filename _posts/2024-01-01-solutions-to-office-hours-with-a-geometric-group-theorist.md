@@ -15,13 +15,6 @@ This is a compilation of my solutions to *Office Hours with a Geometric Group Th
 
 ##### Exercise 1
 
-To be formalized:
-
-Crossings always originate from adjacent numbers unless one of the numbers was previously modified by a swap. However, we only consider the numbers up to previous swapping, so the statement holds at every level. Therefore, every permutation can be obtained by adjacent transpositions.
-
-1. test
-2. test
-
 <!-- Consider $\sigma \in S_n$. Let $\sigma_1$ be the transposition corresponding to the highest crossing in the diagram of $\sigma$ (where all the crossings occur at different heights). -->
 
 <!-- Must prove that every permutation can be obtained by adjacent transpositions -->
@@ -31,3 +24,7 @@ Crossings always originate from adjacent numbers unless one of the numbers was p
 <!-- Something is preserved after each crossing -->
 
 <!-- We prove the statement by induction on the number of crossings in the diagram of an arbitrary permutation (where all the crossings occur at different heights). Diagrams with only 1 crossing correspond precisely to the transpositions $(i \; i+1)$. Assume that any diagram with the  -->
+
+To be formalized:
+
+Crossings always originate from adjacent numbers unless one of the numbers was previously modified by a swap. However, we only consider the numbers up to previous swapping, so the statement holds at every level. Therefore, every permutation can be obtained by adjacent transpositions.
