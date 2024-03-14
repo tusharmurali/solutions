@@ -12,6 +12,3 @@ This is a compilation of my solutions to *Cracking the GRE Mathematics Subject T
 
 ## Chapter 1: Precalculus
 
-### Example 1.1
-
-1. 
