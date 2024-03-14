@@ -17,5 +17,5 @@ This is a compilation of my solutions to *Groups, Graphs and Trees* by John Meie
 - ($2 \Rightarrow 3$) If removing an edge $e \in E(\Gamma)$ doesn't disconnect the graph, then if ${\rm E{\small NDS}}(e) = \{v,w\}$, there is a reduced edge path $\{v,e_1,v_1,\ldots,v_{n-1},e_n,w\}$ not involving $e$. However, the path ${v,e,w}$ is a reduced edge path, which is a contradiction.
 - ($3 \Rightarrow 4$) Since the graph is connected, each vertex has valence at least one. First we will show that 
 
-Clearly $\#V(\Gamma)$ sd. The condition in 3 implies that $\Gamma$ is simple, and that every edge $e$ is the only edge connecting th
+Clearly $\# V(\Gamma)$ sd. The condition in 3 implies that $\Gamma$ is simple, and that every edge $e$ is the only edge connecting th
 - ($4 \Rightarrow 1$) 
