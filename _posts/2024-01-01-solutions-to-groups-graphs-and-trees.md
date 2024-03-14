@@ -4,7 +4,7 @@ title: "Solutions to *Groups, Graphs and Trees*"
 tags: group-theory
 author:
 - Tushar Muralidharan
-modified_date: 2024-01-20
+modified_date: 2024-03-14
 ---
 
 This is a compilation of my solutions to *Groups, Graphs and Trees* by John Meier. All errors are my own.
