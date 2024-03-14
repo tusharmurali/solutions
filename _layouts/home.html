@@ -11,7 +11,7 @@ layout: base
 
 
   {% if site.paginate %}
-    {% assign posts = paginator.posts | sort: 'modified_date' | reverse %}
+    {% assign posts = paginator.posts | sort: 'modified_date' %}
   {% else %}
     {% assign posts = site.posts %}
   {% endif %}
